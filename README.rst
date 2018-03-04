@@ -2,10 +2,10 @@
 taileff: tail -f for humans
 ****************************************
 
-.. image:: https://pypip.in/version/taileff/badge.svg
+.. image:: https://img.shields.io/pypi/v/taileff.svg
     :target: https://pypi.python.org/pypi/taileff
     
-.. image:: https://pypip.in/download/taileff/badge.svg
+.. image:: https://img.shields.io/pypi/dm/taileff.svg
     :target: https://pypi.python.org/pypi/taileff
 
 .. image:: taileff_showcase.gif
